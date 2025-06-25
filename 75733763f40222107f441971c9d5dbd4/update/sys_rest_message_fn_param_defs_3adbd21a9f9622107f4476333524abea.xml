@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>text</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">5eab9ed69f9622107f4476333524ab6c</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-25 04:18:57</sys_created_on>
+        <sys_id>3adbd21a9f9622107f4476333524abea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">75733763f40222107f441971c9d5dbd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">75733763f40222107f441971c9d5dbd4</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_3adbd21a9f9622107f4476333524abea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-25 04:18:57</sys_updated_on>
+        <value>${text}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
